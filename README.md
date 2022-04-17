@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunup
+- 👋 Hi, I’m @dev_varun
 - 👀 I’m interested in Data Analytics | Smart Contract Developer | Web3 Developer
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Some Cool Projects
